@@ -7,10 +7,11 @@ This repository contains a collection of SQL queries designed to analyze pizza s
 - **Intermediate**: Category analysis, daily averages
 - **Advanced**: Revenue percentages, cumulative trends
 
-## 📂 Files
+## 📂 In Files
 - `basic_queries.sql`: Foundational insights
 - `intermediate_queries.sql`: Deeper data joins and aggregations
 - `advanced_queries.sql`: Complex analytics and window functions
+-  `pizza_sales.zip` : Raw data avalible in Zipfile 
 
 ## 📊 Technologies
 - Oracle SQL (compatible with other RDBMS with minor tweaks)
